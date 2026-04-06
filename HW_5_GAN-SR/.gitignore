@@ -31,3 +31,5 @@ env/
 # Временные файлы
 *.tmp
 *.log
+HW_5_GAN-SR/results/
+HW_5_GAN-SR/__pycache__/
