@@ -40,8 +40,12 @@ python setup.py
 
 **Датасет:** Hard Hat Workers (Roboflow)  
 **Ссылка:** https://universe.roboflow.com/yolo-whioc/hard-hat-workers-laqdp
-Описание: dataset/README.roboflow.txt
-Инструкция по подготовке датасета Hard Hat Workers: dataset/README_dataset.txt
+
+Описание:
+dataset/README.roboflow.txt
+
+Инструкция по подготовке датасета Hard Hat Workers:
+dataset/README_dataset.txt
 
 Скачайте датасет в формате **YOLOv5 PyTorch** (получите ZIP-архив).
 
