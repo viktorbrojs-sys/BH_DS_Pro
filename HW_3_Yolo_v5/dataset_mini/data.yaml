@@ -8,6 +8,6 @@ roboflow:
   url: https://app.roboflow.com/yolov5-koqjk/safety-helmet-detection-using-yolov5-aiuvm/2
   version: 2
   workspace: yolov5-koqjk
-test: /home/srs/Sync/Проекты программирования/bh_ds_pro/HW_3_Yolo_v5/dataset_mini/images/test
-train: /home/srs/Sync/Проекты программирования/bh_ds_pro/HW_3_Yolo_v5/dataset_mini/images/train
-val: /home/srs/Sync/Проекты программирования/bh_ds_pro/HW_3_Yolo_v5/dataset_mini/images/val
+test: /home/srs/Sync/Проекты программирования/bh_ds_pro/BH_DS_Pro/HW_3_Yolo_v5/dataset_mini/images/test
+train: /home/srs/Sync/Проекты программирования/bh_ds_pro/BH_DS_Pro/HW_3_Yolo_v5/dataset_mini/images/train
+val: /home/srs/Sync/Проекты программирования/bh_ds_pro/BH_DS_Pro/HW_3_Yolo_v5/dataset_mini/images/val
